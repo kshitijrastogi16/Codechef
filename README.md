@@ -1,1 +1,1 @@
-These are the codes for codechef.
+These are the codes for codeforces.
